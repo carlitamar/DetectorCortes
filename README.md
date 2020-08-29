@@ -1,4 +1,4 @@
-# App Detector Cortes <<>> 
+# App Detector Cortes <<>> Power Outage Detector App
 Se creó un dispositivo que al estar enchufado podía detectar un corte de energía eléctrica, enviando un mensaje/notificación a una aplicación [android] vinculada al dispositivo.
 
 <<>>
